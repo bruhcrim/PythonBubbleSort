@@ -15,10 +15,6 @@ win = pygame.display.set_mode((1280, 720))
 # Add a title to the window
 pygame.display.set_caption("Bubble Sort Visualizer")
 
-# Load a custom image and make it the icon
-img = pygame.image.load('Floppa.jpg')
-pygame.display.set_icon(img)
-
 # Initial position
 x = 200
 y = 0
